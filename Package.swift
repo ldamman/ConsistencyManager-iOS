@@ -9,5 +9,6 @@ let package = Package(
 	],
 	exclude: [
 		"ConsistencyManagerTests",
+		"SampleApp",
 	]
 )
