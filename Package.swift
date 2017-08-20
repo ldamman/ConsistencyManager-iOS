@@ -8,5 +8,6 @@ let package = Package(
 	dependencies: [
 	],
 	exclude: [
+		"ConsistencyManagerTests",
 	]
 )
